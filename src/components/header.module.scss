@@ -1,0 +1,10 @@
+@import '../styles/variables';
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: $backgroundGreen;
+    color: white;
+    font-family: $font;
+    font-size: 30px;
+}
